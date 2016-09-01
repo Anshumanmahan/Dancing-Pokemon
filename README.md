@@ -18,15 +18,25 @@ For each of the T tescases output Q lines each consisting of a string "YES"(with
 Example
 
 Input:
+
 1
+
 5 6
+
 4 6 8 21 1
+
 7 7 8 11 9 8
 
 Output:
+
 NO
+
 YES
+
 YES
+
 NO
+
 NO
+
 YES
